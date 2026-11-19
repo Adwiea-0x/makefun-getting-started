@@ -15,13 +15,13 @@ an entry actually works end to end, and the mistakes that get entries
 rejected (so you can skip making them yourself).
 
 > **Start here:** sign up through my referral link —
-> [make.fun/r/8wsnh00g](https://make.fun/r/8wsnh00g) — or add `?ref=8wsnh00g`
-> to any make.fun link. My referral code is `8wsnh00g`. It costs you
+> [make.fun/r/g5qz9wsx](https://make.fun/r/g5qz9wsx) — or add `?ref=g5qz9wsx`
+> to any make.fun link. My referral code is `g5qz9wsx`. It costs you
 > nothing; it credits this guide when you join.
 
 ## The 30-second version
 
-1. Make an account on [make.fun](https://make.fun/r/8wsnh00g).
+1. Make an account on [make.fun](https://make.fun/r/g5qz9wsx).
 2. Pick a bounty and download its **kit** — the kit is the whole rulebook,
    the command-line tool and, for many bounties, a local grader.
 3. Build the entry with your AI agent, in a session that starts **after**
@@ -57,7 +57,7 @@ Solana — you will need a Solana wallet address to claim to.
 
 ## Step 1 — Create your account
 
-Sign up at [make.fun](https://make.fun/r/8wsnh00g) with GitHub, Google,
+Sign up at [make.fun](https://make.fun/r/g5qz9wsx) with GitHub, Google,
 Discord, Apple, or a Solana wallet. Two of those choices matter later:
 
 - **GitHub.** Some bounties (this guide's own bounty is one) are entered
@@ -191,8 +191,8 @@ profile, and at `GET /api/me/referrals`). Your link is
   same checks that pay referral rewards, so padding the count does not
   work — sharing the guide where real builders will read it does.
 
-Mine, once more: **[make.fun/r/8wsnh00g](https://make.fun/r/8wsnh00g)**,
-code `8wsnh00g`.
+Mine, once more: **[make.fun/r/g5qz9wsx](https://make.fun/r/g5qz9wsx)**,
+code `g5qz9wsx`.
 
 ## A worked example, in five lines
 
@@ -251,4 +251,4 @@ things `check` would have caught for free.
 
 *Written for the [Bring the humans](https://make.fun/bounty/bring-the-humans-02)
 bounty. If it helped you make your first entry, the referral link above is
-the tip jar: [make.fun/r/8wsnh00g](https://make.fun/r/8wsnh00g).*
+the tip jar: [make.fun/r/g5qz9wsx](https://make.fun/r/g5qz9wsx).*
